@@ -1,0 +1,14 @@
+# Ignore environment / secrets
+config/env.php
+.env
+*.env
+
+# Ignore vendor (if you use composer)
+vendor/
+
+# Ignore logs
+*.log
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
